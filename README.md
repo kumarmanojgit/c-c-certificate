@@ -1,1 +1,1 @@
-# c-c-certificate
+# c/c++ certificate
